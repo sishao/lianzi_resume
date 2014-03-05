@@ -1,6 +1,6 @@
 lianzi_resume
 =============
-this is my resume templete written in markdown.
+this is my resume template written in markdown.
 
 guide:
 
